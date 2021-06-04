@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\SplitWise\SplitWise\bin\Debug\SplitWise.exe.config
+C:\Users\User\source\repos\SplitWise\SplitWise\bin\Debug\SplitWise.exe
+C:\Users\User\source\repos\SplitWise\SplitWise\bin\Debug\SplitWise.pdb
+C:\Users\User\source\repos\SplitWise\SplitWise\obj\Debug\SplitWise.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SplitWise\SplitWise\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\SplitWise\SplitWise\obj\Debug\App.g.cs
+C:\Users\User\source\repos\SplitWise\SplitWise\obj\Debug\SplitWise_MarkupCompile.cache
+C:\Users\User\source\repos\SplitWise\SplitWise\obj\Debug\SplitWise_MarkupCompile.lref
+C:\Users\User\source\repos\SplitWise\SplitWise\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\SplitWise\SplitWise\obj\Debug\SplitWise.g.resources
+C:\Users\User\source\repos\SplitWise\SplitWise\obj\Debug\SplitWise.Properties.Resources.resources
+C:\Users\User\source\repos\SplitWise\SplitWise\obj\Debug\SplitWise.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SplitWise\SplitWise\obj\Debug\SplitWise.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SplitWise\SplitWise\obj\Debug\SplitWise.exe
+C:\Users\User\source\repos\SplitWise\SplitWise\obj\Debug\SplitWise.pdb
